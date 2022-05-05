@@ -1,9 +1,9 @@
 # NetCracker Frontend Academy backend
 
-В этом репозитории размещена бэкенд часть учебного проекта в рамках курсов Netcracker Academy.
+This repository hosts the backend part of the training project as part of the Netcracker Academy courses.
 
-Суть работы состояла в разработке сервиса для автоматической проверки заданий по фронтенду.
+The essence of the work was to develop a service for automatically checking tasks on the frontend.
 
-Для проверки использовалась библиотека backstopjs.
+The backstopjs library was used for verification.
 
-В качестве подгружаемого решения можно выполнять отпраку нескольких файлов, необходимых для успешного запуска. 
+As a loadable solution, you can upload multiple files needed for a successful launch.
