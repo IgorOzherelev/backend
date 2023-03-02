@@ -3,7 +3,7 @@
   "version": "0.0.1-SNAPSHOT",
   "description": "",
   "dependencies": {
-    "backstopjs": "^4.3.4",
+    "backstopjs": "^6.1.4",
     "core-js": "^3.4.2",
     "puppeteer": "^2.0.0"
   },
